@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "怪ホラーダスト",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-22T12:21:47.275944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kai Horror Dust [怪ホラーダスト]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_Kai_Horror_Dust_[怪ホラーダスト]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪ホラーダスト",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_怪ホラーダスト_東京事変.txt"
+    }
+  ]
+}
